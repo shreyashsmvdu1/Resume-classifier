@@ -1,5 +1,5 @@
 # Resume-classifier
-a simple resume classifier using machine learning
+A Multilevel resume classifier using machine learning & NLP
 
 The classifier is in two stage in stage 1:-
 It divides thing according to the field of the resume holder.
